@@ -15,7 +15,7 @@
 
 - ## install 
 
-  glide get github.com/zzerroo/zcrontab
+  git clone https://github.com/zzerroo/zcrontab.git && cd zcrontab && glide install
 
 - ## example
 
