@@ -1,0 +1,6 @@
+package: ztimer
+import:
+- package: github.com/satori/go.uuid
+  version: ~1.2.0
+- package: github.com/gorhill/cronexpr
+  version: ~1.0.0

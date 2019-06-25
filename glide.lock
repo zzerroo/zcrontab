@@ -1,0 +1,8 @@
+hash: 55693238c05bbf37b70b8e72bdc6aa5968dd4251629c0613373bf392c97dab84
+updated: 2019-06-21T11:36:25.308586536+08:00
+imports:
+- name: github.com/gorhill/cronexpr
+  version: a557574d6c024ed6e36acc8b610f5f211c91568a
+- name: github.com/satori/go.uuid
+  version: f58768cc1a7a7e77a3bd49e98cdd21419399b6a3
+testImports: []
