@@ -15,7 +15,7 @@ zcrontab is a crontab、at  task processor based on golang:
 ## Install 
 
   git clone https://github.com/zzerroo/zcrontab.git
-  cd zcrontab && glide install
+  && cd zcrontab && glide install
 
 ## example
 
