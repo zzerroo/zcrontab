@@ -43,8 +43,3 @@ func main() {
 }
 ```
 
-#   Third
-
-github.com/gorhill/cronexpr
-
-github.com/satori/go.uuid
